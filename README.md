@@ -175,4 +175,8 @@ public class ComputeValue {
         System.out.println(n + " + " + n2 + " + " + n3 + " = " + result);
     }
 }
+Q8:public class IdentifyMyParts { public static int x = 7; public int y = 3; } What are the class variables?
 
+What are the instance variables?
+
+x is a class variable, and y is an instance variable.
