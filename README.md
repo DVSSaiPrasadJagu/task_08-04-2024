@@ -1,6 +1,5 @@
 # task_08-04-2024
 Q1:prepare a java code with constructor as private
-
 public class Person {
     private String name;
     private int age;
